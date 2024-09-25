@@ -1,0 +1,28 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+openpyxl
+streamlit
+streamlit-option-menu
+numpy
+pandas
+# Add any other dependencies your project requires
+streamlit
+streamlit-option-menu
+torch
+numpy
+pandas
+# Add any other dependencies your project requires
+streamlit
+streamlit-option-menu
+torch
+torchvision
+numpy
+pandas
+# Add any other dependencies your project requires
+
+
+
